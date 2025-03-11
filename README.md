@@ -37,8 +37,8 @@ This project provides insights into consumer preferences, market trends, and rec
 - **Target Audience:** 15-30 years age group.
 
 ## Additional Resources
-- **Project Report** - Detailed insights and graphical analysis.
-- **Image Gallery** - Visual representation of key findings.
+- **Queries** - [Queries](queries) for detailed insights and graphical analysis.
+  
 
 ---
 ### How to Use This Repository
